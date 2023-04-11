@@ -50,3 +50,6 @@ After carefully analysing the data, below are my insights;
 •	One of the major factors that contributed to Finland being the happiest country is Freedom to make life choices
 
 ![image](https://user-images.githubusercontent.com/128192166/230749768-4e3240b5-5fe2-48d1-9738-c0c5c7a4fb43.png)
+
+Feel free to interract with my dashboard https://www.novypro.com/project/world-happiness-dashboard
+
